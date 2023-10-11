@@ -95,7 +95,7 @@ fitv:consistsOf rdf:type rdf:Property ;
 
 fitv:performedBy rdf:type rdf:Property ;
     rdfs:label "performed by" ;
-    rdfs:comment "A property to designate that an #Athlete performed an #Exercise ;
+    rdfs:comment "A property to designate that an #Athlete performed an #Exercise" ;
     rdfs:domain (fitv:Athlete) ;
     rdfs:range (fitv:Rep) .
 
